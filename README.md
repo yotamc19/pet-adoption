@@ -1,4 +1,4 @@
-# Description
+## Description
 
 This repository is the FE side of my Pet Adoption project, the final project from my <itc> full stack bootcamp. 
 The porpuse of the site is to stimulate a pet adoption agency, fill free to look around, explore, adopt pets and so on, enjoy!
