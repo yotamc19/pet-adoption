@@ -7,3 +7,6 @@ The porpuse of the site is to stimulate a pet adoption agency, fill free to look
 
 After you clone the repo, first you have to 'npm install' in order to get all packages. 
 After that run 'npm start' and enjoy!
+BTW, if you want to play a bit with admin functionality login with:
+email: user@admin.com
+password: 123456
